@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8431693440
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: harshith 
+- ⚡ Fun fact: i know coding 
 
 <!---
 coderharshith/coderharshith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
