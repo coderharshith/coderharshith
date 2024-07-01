@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderharshith
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java Project's 
 - 📫 How to reach me 8431693440
 - 😄 Pronouns: harshith 
 - ⚡ Fun fact: i know coding 
