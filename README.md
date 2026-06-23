@@ -32,18 +32,7 @@
 
 </p>
 
----
 
-### 🎯 Featured Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🔥 **messaging-app** | Java | Real-time messaging platform for college students |
-| 📝 **Quiz Management System** | Java | Multi-role quiz system with authentication |
-| 🌐 **coderharshith.dev** | TypeScript | Personal developer portfolio |
-| ⚡ **GDG-angular** | TypeScript | Angular practice projects & components |
-
----
 
 ### 📫 Let's Connect
 
