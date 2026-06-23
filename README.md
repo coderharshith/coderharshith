@@ -1,6 +1,6 @@
 # Hey there, I'm Harshith 👋
 
-### 🚀 Professional Coder | Java Developer | Lifelong Learner
+### 🚀 Professional Coder | Lifelong Learner
 
 ---
 
@@ -12,11 +12,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔥 **Professional Coder** with a passion for clean, efficient code
-- ☕ **Java Developer** — currently mastering Spring Boot & Microservices
-- 🎯 **Problem Solver** — I love tackling complex challenges
-- 🌱 **Always Learning** — exploring new technologies every day
-- 💡 **Building Solutions** — turning ideas into real-world applications
+- 🔥 **Professional Developer** — I build scalable, high-performance applications that solve real-world problems
+- 💡 **Driven by Innovation** — Always exploring new technologies to deliver cutting-edge solutions for clients
 
 ---
 
@@ -34,14 +31,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderharshith&theme=radical&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 ---
