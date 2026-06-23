@@ -1,53 +1,78 @@
-# Hi, I'm Harshith 👋
+# Hey there, I'm Harshith 👋
+
+### 🚀 Professional Coder | Java Developer | Lifelong Learner
 
 ---
 
-### 🖥️ I'm interested in coding
-### 🌱 I'm currently learning Java
-### 📫 How to reach me: 8131693410
-### 😄 Pronouns: harshith
-### ⚡ Fun fact: I know coding
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+Enthusiast;Building+Cool+Stuff;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔥 GitHub Stats
+### 👨‍💻 About Me
 
-![Harshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderharshith&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9)
-
-![Harshith's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=coderharshith&theme=dark&background=0d1117&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c9d1d9&sideLabels=c9d1d9)
-
----
-
-### 📌 Pinned Repositories
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [messaging-app-college-project](https://github.com/coderharshith/messaging-app-college-project) | A real-time messaging web app for college students using Spring Boot and WebSocket. | Java | ⭐ 1 |
-| [Quizmanagementsystem](https://github.com/coderharshith/Quizmanagementsystem) | Quiz management system for students and teachers with multiple roles and authentication. | Java | ⭐ 0 |
-| [coderharshith.dev](https://github.com/coderharshith/coderharshith.dev) | My personal developer portfolio built with React and Tailwind CSS. | TypeScript | ⭐ 2 |
-| [GDG-angular](https://github.com/coderharshith/GDG-angular) | Practice projects and components built while learning Angular. | TypeScript | ⭐ 0 |
+- 🔥 **Professional Coder** with a passion for clean, efficient code
+- ☕ **Java Developer** — currently mastering Spring Boot & Microservices
+- 🎯 **Problem Solver** — I love tackling complex challenges
+- 🌱 **Always Learning** — exploring new technologies every day
+- 💡 **Building Solutions** — turning ideas into real-world applications
 
 ---
 
-### 📊 Contribution Activity
+### 🛠️ Tech Stack
 
-![Harshith's contribution graph](https://github-readme-graph.vercel.app/api?username=coderharshith&theme=dark&bg_color=0d1117&color=8b5cf6&point=c9d1d9)
+<p align="center">
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Connect with me
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/coderharshith)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/-Email-D44638?style=flat&logo=gmail)](mailto:harshith@example.com)
-
----
-
-### 📈 Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=coderharshith&color=8b5cf6&style=flat&label=Profile+Views)
+</p>
 
 ---
 
-💡 *Always learning, always building, always shipping! 🚀*
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coderharshith&theme=radical&no-frame=true&column=7" alt="Trophies" />
+</p>
+
+---
+
+### 🎯 Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| 🔥 **messaging-app** | Java | Real-time messaging platform for college students |
+| 📝 **Quiz Management System** | Java | Multi-role quiz system with authentication |
+| 🌐 **coderharshith.dev** | TypeScript | Personal developer portfolio |
+| ⚡ **GDG-angular** | TypeScript | Angular practice projects & components |
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coderharshith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+</p>
+
+---
+
+<p align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=coderharshith&color=7C3AED&style=flat-square)
+
+</p>
