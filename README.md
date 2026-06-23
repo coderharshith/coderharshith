@@ -10,10 +10,9 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔥 **Professional Developer** — I build scalable, high-performance applications that solve real-world problems
-- 💡 **Driven by Innovation** — Always exploring new technologies to deliver cutting-edge solutions for clients
+- 🔥 **I BUILD WHAT CLIENTS DREAM, ENGINEER SCALABLE SYSTEMS, CREATE DIGITAL EMPIRES**
+- 💎 **PREMIUM DIGITAL SERVICES. ENGINEERED FOR SCALE, DESIGNED FOR IMPACT**
+- 💡 **3D Web Developer** — creating immersive digital experiences that captivate and convert
 
 ---
 
