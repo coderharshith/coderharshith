@@ -1,4 +1,4 @@
-# Hey there, I'm Harshith 👋
+# Hey there, I'm Coder Harshith 👋
 
 ### 🚀 Professional Coder | Lifelong Learner
 
